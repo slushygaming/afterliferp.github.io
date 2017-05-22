@@ -1,0 +1,9 @@
+{
+	"custom-css": "Özel CSS",
+	"custom-css.description": "Özel CSS kodlarınızı bu alana girin.",
+	"custom-css.enable": "Özel CSS Etkinleştir",
+
+	"custom-header": "Özel Header",
+	"custom-header.description": "Forumunuzun biçimlendirmesini sağlayacak  <code>&lt;head&gt;</code> bölümüne eklenecek özel HTML'yi (ör. JavaScript, Meta Etiketler vb.) Girin.",
+	"custom-header.enable": "Özel Header'ı Etkinleştir"
+}
